@@ -1,7 +1,5 @@
 <h1 align="center">GimKit Hack</h1>
 <h3 align="center">One of the best GimKit hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/abqMVbDanB</h2>
-<h2 align="center">Credits to <a href="https://github.com/hostedposted">@hostedposted</a> for helping me!</h3>
 
 #### Made by hackthegamezJJ. This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
